@@ -15,7 +15,7 @@
 
 ## What It Is
 
-`urban-experience-ui` is a skill package for Claude Code. It guides the agent through a structured workflow for building websites:
+**Urban Experience UI** is an advanced, reasoning-first **Claude Code skill** designed to power **agentic web design** workflows. Instead of relying on generic templates, it empowers AI agents to think like an urban architect. It guides the AI through a structured workflow for generative UI and frontend development:
 
 1. Pick a famous city and a specific vibe/era
 2. Research that city's visual language (architecture, lighting, street rhythm, material)
@@ -133,3 +133,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## License
 
 MIT. See [LICENSE](./LICENSE).
+
+---
+
+## Topics & Keywords
+
+`claude-code` `claude-skill` `ai-agent` `agentic-workflow` `web-design` `generative-ui` `frontend-development` `city-inspired-design` `urban-experience` `design-system` `ui-framework` `layout-engine` `storyboard` `ux` `reasoning-skill` `anthropic` `mcp`

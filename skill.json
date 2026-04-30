@@ -10,17 +10,23 @@
   "homepage": "https://github.com/AbhijeetBabar-2025/urban-experience-ui",
   "license": "MIT",
   "keywords": [
-    "urban",
+    "claude-code",
+    "claude-skill",
+    "ai-agent",
+    "agentic-workflow",
     "web-design",
-    "ai-skill",
-    "city-architect",
+    "generative-ui",
+    "frontend-development",
+    "city-inspired-design",
+    "urban-experience",
     "design-system",
-    "layout",
+    "ui-framework",
+    "layout-engine",
     "storyboard",
-    "ui",
     "ux",
-    "reasoning",
-    "claude"
+    "reasoning-skill",
+    "anthropic",
+    "mcp"
   ],
   "skills": [
     "urban-experience-ui"
