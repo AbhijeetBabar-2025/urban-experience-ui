@@ -1,0 +1,32 @@
+{
+  "name": "urban-experience-ui",
+  "version": "1.0.0",
+  "description": "A reasoning-first web design skill that makes AI think like an urban architect — researching a real city, its cultural textures, and its soundscape rhythm, then translating it into page narrative, composition, and motion. Not a style picker. An urban translation workflow.",
+  "author": {
+    "name": "Abhijeet Babar",
+    "url": "https://github.com/AbhijeetBabar-2025"
+  },
+  "repository": "https://github.com/AbhijeetBabar-2025/urban-experience-ui",
+  "homepage": "https://github.com/AbhijeetBabar-2025/urban-experience-ui",
+  "license": "MIT",
+  "keywords": [
+    "urban",
+    "web-design",
+    "ai-skill",
+    "city-architect",
+    "design-system",
+    "layout",
+    "storyboard",
+    "ui",
+    "ux",
+    "reasoning",
+    "claude"
+  ],
+  "skills": [
+    "urban-experience-ui"
+  ],
+  "entryPoints": {
+    "claude": "CLAUDE.md"
+  }
+}
+
